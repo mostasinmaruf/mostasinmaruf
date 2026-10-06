@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Mostasin Rahman P. Maruf</h1>
-<h3 align="center">Computer Science Student | Exploring C++, Java, Python | Focused on Learning and Growth in Software Engineering</h3>
+<h1 align="center">Hi, I'm Mohd. Mostasin Rahman Prodhan Maruf</h1>
+<h3 align="center">CSE Student | Software Development | Research</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostasinmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="mostasinmaruf" /> </p>
 
-- 🌱 I’m currently learning *JAVA*
+- 🌱 I’m currently learning *Python*
 
 - 📫 Reach me *mostasin2012@gmail.com*
 
